@@ -88,5 +88,6 @@
 	<classpathentry kind="lib" path="C:/Users/kurub/Downloads/selenium-java-4.8.3/lib/opentelemetry-semconv-1.24.0-alpha.jar"/>
 	<classpathentry kind="lib" path="C:/Users/kurub/Downloads/selenium-java-4.8.3/lib/reactive-streams-1.0.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/kurub/Downloads/selenium-java-4.8.3/lib/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="lib" path="jar1/selenium-server-standalone-3.141.59 (1).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
