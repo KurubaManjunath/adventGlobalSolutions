@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class automateScenario{
 	static {
-		System.setProperty("webdriver.chrome.driver1", "./driver1/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
 	}
 	public static void main(String[] args) throws InterruptedException {
 		WebDriver driver=new ChromeDriver();
